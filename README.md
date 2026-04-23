@@ -79,8 +79,7 @@
 ## 📄 Άδεια Χρήσης
 Η εφαρμογή προορίζεται για **εκπαιδευτική χρήση**.
 
-(Συμπλήρωσε εδώ άδεια χρήσης, π.χ.  
-Creative Commons Attribution – NonCommercial – ShareAlike, αν το επιθυμείς.)
+Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
 
 ---
 
